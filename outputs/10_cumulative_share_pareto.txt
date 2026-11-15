@@ -1,0 +1,11 @@
+customer | total_spend_pkr | cumulative_spend_pkr | cumulative_share_pct | in_top_80_pct_group
+Ayesha Khan | 56700 | 56700 | 16.35 | yes
+Bilal Ahmed | 46600 | 103300 | 29.79 | yes
+Fatima Noor | 44100 | 147400 | 42.5 | yes
+Maryam Iqbal | 37400 | 184800 | 53.29 | yes
+Usman Tariq | 34800 | 219600 | 63.32 | yes
+Omar Sheikh | 34100 | 253700 | 73.15 | yes
+Hassan Raza | 26000 | 279700 | 80.65 | yes
+Zainab Ali | 25400 | 305100 | 87.98 | no
+Sana Malik | 23600 | 328700 | 94.78 | no
+Ali Nawaz | 18100 | 346800 | 100.0 | no

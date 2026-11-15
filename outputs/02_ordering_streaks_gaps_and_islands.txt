@@ -1,0 +1,24 @@
+customer | island_start | island_end | streak_months
+Ali Nawaz | 2026-04 | 2026-05 | 2
+Ayesha Khan | 2026-01 | 2026-02 | 2
+Bilal Ahmed | 2026-05 | 2026-06 | 2
+Fatima Noor | 2026-01 | 2026-02 | 2
+Fatima Noor | 2026-05 | 2026-06 | 2
+Maryam Iqbal | 2026-03 | 2026-04 | 2
+Omar Sheikh | 2026-01 | 2026-02 | 2
+Zainab Ali | 2026-01 | 2026-02 | 2
+Ayesha Khan | 2026-04 | 2026-04 | 1
+Ayesha Khan | 2026-06 | 2026-06 | 1
+Bilal Ahmed | 2026-01 | 2026-01 | 1
+Bilal Ahmed | 2026-03 | 2026-03 | 1
+Hassan Raza | 2026-03 | 2026-03 | 1
+Hassan Raza | 2026-06 | 2026-06 | 1
+Maryam Iqbal | 2026-06 | 2026-06 | 1
+Omar Sheikh | 2026-05 | 2026-05 | 1
+Sana Malik | 2026-02 | 2026-02 | 1
+Sana Malik | 2026-04 | 2026-04 | 1
+Sana Malik | 2026-06 | 2026-06 | 1
+Usman Tariq | 2026-02 | 2026-02 | 1
+Usman Tariq | 2026-04 | 2026-04 | 1
+Usman Tariq | 2026-06 | 2026-06 | 1
+Zainab Ali | 2026-05 | 2026-05 | 1

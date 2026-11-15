@@ -1,0 +1,15 @@
+product_a | product_b | orders_together | pair_revenue_pkr
+Mechanical Keyboard | Ceramic Mug Set | 4 | 53200
+Desk Lamp | Ceramic Mug Set | 3 | 26400
+Office Chair | Notebook Set | 2 | 39600
+Wireless Mouse | Ceramic Mug Set | 2 | 16400
+Wireless Mouse | Laptop Stand | 2 | 14000
+Laptop Stand | Dinner Set 24pc | 1 | 19000
+Desk Lamp | Dinner Set 24pc | 1 | 18700
+Mechanical Keyboard | Desk Lamp | 1 | 16900
+Desk Lamp | Notebook Set | 1 | 12000
+Wireless Mouse | Mechanical Keyboard | 1 | 11000
+Mechanical Keyboard | Notebook Set | 1 | 10900
+Wireless Mouse | Notebook Set | 1 | 8600
+Notebook Set | Ceramic Mug Set | 1 | 6800
+Wireless Mouse | Desk Lamp | 1 | 6700

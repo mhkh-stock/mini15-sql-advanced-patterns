@@ -1,0 +1,11 @@
+customer | total_spend_pkr | orders | spend_quartile | percent_rank
+Ayesha Khan | 56700 | 4 | 1 | 0.0
+Bilal Ahmed | 46600 | 4 | 1 | 0.11
+Fatima Noor | 44100 | 4 | 1 | 0.22
+Maryam Iqbal | 37400 | 3 | 2 | 0.33
+Usman Tariq | 34800 | 3 | 2 | 0.44
+Omar Sheikh | 34100 | 3 | 2 | 0.56
+Hassan Raza | 26000 | 3 | 3 | 0.67
+Zainab Ali | 25400 | 3 | 3 | 0.78
+Sana Malik | 23600 | 3 | 4 | 0.89
+Ali Nawaz | 18100 | 2 | 4 | 1.0

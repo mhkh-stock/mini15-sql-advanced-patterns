@@ -1,0 +1,16 @@
+set_operation | entity_type | entity
+bought_in_Q2_not_Q1 | customer | Ali Nawaz
+sold_in_Jan_or_Jun | product | Ceramic Mug Set
+sold_in_Jan_or_Jun | product | Desk Lamp
+sold_in_Jan_or_Jun | product | Dinner Set 24pc
+sold_in_Jan_or_Jun | product | Laptop Stand
+sold_in_Jan_or_Jun | product | Notebook Set
+sold_in_Jan_or_Jun | product | Office Chair
+sold_in_Jan_or_Jun | product | Wireless Mouse
+sold_in_both_quarters | product | Ceramic Mug Set
+sold_in_both_quarters | product | Desk Lamp
+sold_in_both_quarters | product | Dinner Set 24pc
+sold_in_both_quarters | product | Laptop Stand
+sold_in_both_quarters | product | Mechanical Keyboard
+sold_in_both_quarters | product | Notebook Set
+sold_in_both_quarters | product | Wireless Mouse
